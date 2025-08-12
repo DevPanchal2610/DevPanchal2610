@@ -1,18 +1,5 @@
 # ![Dev Panchal — Backend Developer Banner](/profile_banner.png)
 
-<div align="center">
-  <h1>Hey, I'm Dev 👋</h1>
-  <p><strong>Java · Spring Boot · PHP · Laravel · MySQL · Web Apps</strong></p>
-  <p>I like making web apps that actually get used — the kind that solve real problems and feel good to use.</p>
-
-  <!-- Badges -->
-  <p>
-    <a href="https://github.com/DevPanchal2610"><img src="https://img.shields.io/badge/GitHub-DevPanchal2610-181717?logo=github" alt="GitHub"></a>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green" alt="Open to Work">
-    <img src="https://img.shields.io/badge/Languages-Java%20%7C%20PHP%20%7C%20JS-orange" alt="Languages">
-    <img src="https://img.shields.io/badge/Tools-SpringBoot%20%7C%20Laravel-blue" alt="Tools">
-  </p>
-</div>
 
 ---
 
