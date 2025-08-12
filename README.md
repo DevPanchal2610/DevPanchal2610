@@ -1,4 +1,4 @@
-# ![Dev Panchal — Backend Developer Banner](/assets/profile-banner.png)
+# ![Dev Panchal — Backend Developer Banner](profile-banner.png)
 
 <div align="center">
   <h1>Hey, I'm Dev 👋</h1>
