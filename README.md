@@ -15,13 +15,13 @@
 - **Frameworks:** Spring Boot, Laravel  
 - **Database:** MySQL  
 - **Tools:** Maven, Composer, Git, VS Code, NetBeans, IntelliJ, Eclipse  
-- **Other Skills:** REST APIs, Authentication systems, CRUD apps, Responsive UI
+- **Other Skills:** REST APIs, Authentication systems
 
 ---
 
 ## 🚀 My Projects
 
-- **Resume Shield** — AI-powered resume builder + ATS validator (Java, Spring Boot). Built for my MCA project; parses resumes and checks them against hiring criteria.
+- **MyResuMate** — AI-powered resume builder + ATS validator (Java, Spring Boot). Built for my MCA project; parses resumes and checks them against hiring criteria.
 - **Skill-Exchange** — Skill swap platform (Laravel, MySQL, Bootstrap). A space where users exchange services without money, with an admin panel to manage it all.  
 - **WWS (Work With Skills)** — Freelancing platform (PHP, MySQL, Bootstrap). Lets users post projects, bid on tasks, and showcase their profiles.
 - **Artibidz** — E-commerce platform for artists with auction features, helping artists sell artwork and run competitive bids.
